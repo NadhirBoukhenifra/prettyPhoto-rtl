@@ -5,4 +5,4 @@ prettyPhoto website : [http://www.no-margin-for-errors.com/](http://www.no-margi
 
 ------
 
-<div style="direction:rtl;">نسخه فارسی شده پلاگین prettyPhoto</div>
+<div dir="rtl" style="text-align:right;">نسخه فارسی شده پلاگین prettyPhoto</div>
